@@ -1,0 +1,25 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"content": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Commodo enim aute aliqua exercitation sit adipisicing irure reprehenderit sunt quis adipisicing nostrud proident fugiat non. Dolor reprehenderit dolor esse sit adipisicing irure laborum ex ea cupidatat consequat. Lorem qui non nostrud non dolor adipisicing laborum nostrud pariatur id."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]
